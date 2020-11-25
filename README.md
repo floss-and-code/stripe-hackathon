@@ -11,11 +11,16 @@ Agenda (All times are in PST)
 - 10:45 Hackathon Q & A
 - 11:30 Workshops (Stripe + Vercel)
 
-Note: We are hosting two sessions Intro to GitHub Workshop sessions (November 30th at 9:30 am PST and 1:30 pm PST). This invite is for the session.
+## How to get started
+...
 
-For early the session, RSVP here: https://www.meetup.com/GitHub-Virtual-Meetup/events/274679053
+## The challenge
+...
 
-About GitHub Universe
+## Questions
+...
+
+## About GitHub Universe
 
 GitHub Universe (Dec. 8-10) is our annual marquee product and user conference. The three-day event brings together a global interconnected community with tens of thousands of viewers. From around the world developers, industry thought leaders, and executives tune in to hear what's next from GitHub, and learn about the tools and concepts that are pushing the software industry forward.
 
