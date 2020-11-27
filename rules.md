@@ -1,4 +1,4 @@
-# FLOSS and Code HACKATHON 2020 CONTEST OFFICIAL RULES
+# FLOSS and Code HACKATHON 2020 OFFICIAL RULES
 These rules were written by our lawyers (and help them sleep a little better at night). They’ve got a lot of important details, so please read them closely.
 
 ## SPONSOR
