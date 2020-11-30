@@ -34,7 +34,7 @@ Use the existing the [nextjs-subscription-payments
 _winners are limited to the first 50 valid submissions_
 
 ## Questions
-1. FLOSS event [FAQs](https://github.com/floss-and-code/stripe-hackathon/blob/add-faqs/FAQs.md)
+1. FLOSS event [FAQs](https://github.com/floss-and-code/stripe-hackathon/blob/main/FAQs.md )
 2. [Questions about the Next.js template](https://github.com/thorwebdev/nextjs-subscription-payments)
 
 ## About GitHub Universe
