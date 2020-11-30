@@ -13,7 +13,7 @@ December 1st to December 20th, 2020 11:59 pm PST
 Like open-source, the GitHub Hackathon is Free!
 
 ## Can I submit as a team?
-Yes. All submissions will need to be submitted by one user. Please list your team by linking directly to their GitHub profiles (limited to 4 plus the repo owner).
+Yes. All submissions will need to be submitted by one user. Please list your team by linking directly to their GitHub profiles (limited to 3 plus the repo owner).
 
 ## Can I work as a team or with other people?
 We ALWAYS encourage collaboration when coding and building ideas. Feel free to work with others, help one another, and build together. Just remember your Action will need to be submitted by an individual. You will be judged as an individual, and prizes are for individuals.
