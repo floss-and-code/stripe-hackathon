@@ -25,7 +25,7 @@ There is a limit of one submission?
 An organization can submit a project, but prizes can only be sent to indivudal GitHub users.
 
 ## If I have a question, or I’m stuck with my Project, who can I ask?
-Please reach out to the github.community or this repo for GitHub support. If you have Stripe, Supabase, or Vercel assistance please open a discussion in the https://github.com/thorwebdev/nextjs-subscription-payments repo.
+Please reach out to the [github.community](https://github.community) or this repo for GitHub support. If you have Stripe, Supabase, or Vercel assistance please open a discussion in the https://github.com/thorwebdev/nextjs-subscription-payments repo.
 
 ## What programming language can I use?
 The [template provide](https://github.com/thorwebdev/nextjs-subscription-payments) is built using React and JavaScript, we encourage you to try new things and share your discoveries with the community. If you would like to re use the template using a different language, we encourage you to explore other [templates in different languages](https://github.com/stripe-samples). 
