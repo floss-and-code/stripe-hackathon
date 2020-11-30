@@ -1,7 +1,7 @@
 # FLOSS and Code: Stripe hackathon
 At GitHub, part of our vision is to impact positive and lasting change around the world through the products we help build.
 
-In keeping with the spirit of our mission to accelerate human progress through developer collaboration, we have partnered with Stripe and Vercel (Next.js OSS team) to host a hackathon to help build e-commerce applications and tools to assist communities and businesses affected by Covid-19.
+In keeping with the spirit of our mission to accelerate human progress through developer collaboration, we have partnered with Stripe and Vercel (Next.js) to host a hackathon to help build e-commerce applications and tools to assist communities and businesses affected by Covid-19.
 
 The hackathon will be hosted Tuesday, Dec 1 as a [GitHub Universe](https://githubuniverse.com) Orbital event, and it is open to all GitHub users.
 
