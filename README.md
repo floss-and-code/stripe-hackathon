@@ -32,7 +32,7 @@ Use the existing the [nextjs-subscription-payments
 - Improve: Add a new feature to the starter using your fork or clone as an example.
 
 ## Questions
-1. Event FAQs[https://github.com/floss-and-code/stripe-hackathon/blob/add-faqs/FAQs.md]
+1. FLOSS event [FAQs](https://github.com/floss-and-code/stripe-hackathon/blob/add-faqs/FAQs.md)
 2. [Questions about the Next.js template](https://github.com/thorwebdev/nextjs-subscription-payments)
 
 ## About GitHub Universe
