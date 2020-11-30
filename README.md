@@ -19,8 +19,8 @@ Free/libre open-source software (FLOSS) is software that can be classified as bo
 
 ## How to get started
 1. Fork or clone the starter, https://github.com/thorwebdev/nextjs-subscription-payments
-2. Follow the instructions in the README.
-3. Use the GitHub Discussions to ask questions.
+2. Follow the setup instructions in the README.
+3. Use the [GitHub Discussions](https://github.com/thorwebdev/nextjs-subscription-payments/discussions) to ask questions.
 4. [Submit your project as an issue in this repo](https://github.com/floss-and-code/stripe-hackathon/issues/new?assignees=&labels=submission&template=hackathon-submission.md&title=) (limited to the first 50). 
 
 ## The challenge
