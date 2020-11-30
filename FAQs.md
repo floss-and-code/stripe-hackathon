@@ -37,7 +37,7 @@ You can use whatever you’d like. We do recommend checking out the deploy to Ve
 This hackathon is meant to encourage building e-commerce applications that assist communities and businesses affected by Covid-19. We encourage you to think of real business affected and build a project that would support them during this time.
 
 ## Who decides the winners?
-Team of GitHub employees
+Team of GitHub employees. If the project improves on the existing starter it will be deemed valid and added to the winners list ( limited to the first 50).
 
 ## When are the winners announced?
 December 14th
