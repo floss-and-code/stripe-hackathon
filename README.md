@@ -31,6 +31,8 @@ Use the existing the [nextjs-subscription-payments
 - Design: Submit a new design for the starter template. Today, we would love to see examples representing (but not limited to) food delivery, apparel stores, or salon services.
 - Improve: Add a new feature to the starter using your fork or clone as an example.
 
+_winners are limited to the first 50 valid submissions_
+
 ## Questions
 1. FLOSS event [FAQs](https://github.com/floss-and-code/stripe-hackathon/blob/add-faqs/FAQs.md)
 2. [Questions about the Next.js template](https://github.com/thorwebdev/nextjs-subscription-payments)
