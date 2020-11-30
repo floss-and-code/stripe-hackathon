@@ -3,7 +3,7 @@ At GitHub, part of our vision is to impact positive and lasting change around th
 
 In keeping with the spirit of our mission to accelerate human progress through developer collaboration, we have partnered with Stripe and Vercel (Next.js OSS team) to host a hackathon to help build e-commerce applications and tools to assist communities and businesses affected by Covid-19.
 
-The hackathon will be hosted Tuesday, Dec 1 as a GitHub Universe Orbital event, and it is open to all GitHub users.
+The hackathon will be hosted Tuesday, Dec 1 as a [GitHub Universe](https://githubuniverse.com) Orbital event, and it is open to all GitHub users.
 
 Agenda (All times are in PST)
 - 9:30 am Welcome from GitHub
@@ -18,13 +18,17 @@ This event is open to programmers from all levels of experience. Individuals are
 Free/libre open-source software (FLOSS) is software that can be classified as both free software and open-source software. That is, anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to improve the design of the software voluntarily. This is in contrast to proprietary software, where the software is under restrictive copyright licensing, and the source code is usually hidden from the users.
 
 ## How to get started
-...
+1. Fork or clone the starter, https://github.com/thorwebdev/nextjs-subscription-payments
+2. Follow the instructions in the README.
+3. Use the GitHub Discussions to ask questions.
 
 ## The challenge
-...
+Use the existing the [nextjs-subscription-payments
+](https://github.com/thorwebdev/nextjs-subscription-payments) template
 
 ## Questions
-...
+1. Event FAQs[https://github.com/floss-and-code/stripe-hackathon/blob/add-faqs/FAQs.md]
+2. [Questions about the Next.js template](https://github.com/thorwebdev/nextjs-subscription-payments)
 
 ## About GitHub Universe
 
