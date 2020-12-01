@@ -50,7 +50,7 @@ Pending confirmation of eligibility, potential prize winners will be selected by
 - Your submitted web app must be published in a public repository owned by your GitHub account.
 - Your submitted web app must include you as the author in the git history.
 - Your web app must be Unique and be an improvement on the provided templates.
-- Submission must also include a linkable blog post (more than 400 words) about your project hosted publically (i.e. Linked, Dev.to, etc).
+- Submission must include a linkable blog post (more than 400 words) about your project hosted publically (i.e. Linked, Dev.to, etc).
 
 Winners will be selected within 7 business days following the close of the Entry Period.
 
