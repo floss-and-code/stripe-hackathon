@@ -18,13 +18,13 @@ Like open-source, the GitHub Hackathon is Free!
 Yes. All submissions will need to be submitted by one user. Please list your team by linking directly to their GitHub profiles (limited to 3 plus the repo owner). Keep in mind GitHub and Stripe credits will be only provided 1 per team. A GitHub swag coupon will be provided for all team members. 
 
 ## Can I work as a team or with other people?
-We ALWAYS encourage collaboration when coding and building ideas. Feel free to work with others, help one another, and build together. Just remember your Action will need to be submitted by an individual. You will be judged as an individual, and prizes are for individuals.
+We ALWAYS encourage collaboration when coding and building ideas. Feel free to work with others, help one another, and build together. Just remember your project will need to be submitted by an individual. You will be judged as an individual, and prizes are for individuals.
 
 ## How many projects can I submit?
 There is a limit of one submission?
 
-## Can I submit an Action from an organization?
-An organization can submit a project, but prizes can only be sent to indivudal GitHub users.
+## Can I submit a repository from an organization?
+An organization repo can be submitted, but prizes can only be sent to indivudal GitHub users.
 
 ## If I have a question, or I’m stuck with my Project, who can I ask?
 Please reach out to the [github.community](https://github.community) or this repo for GitHub support. If you have Stripe, Supabase, or Vercel assistance please open a discussion in the https://github.com/thorwebdev/nextjs-subscription-payments repo.
