@@ -67,7 +67,6 @@ The following prizes will be awarded:
 **Each submitted and approved web app will receive:**
 
 - 1 swag coupon email. Prize limited to first 50 winners. Approximate Retail Value (ARV) $34.00 USD.
-- Free Stripe credits and stripe swag (while supplies last).
 
 We will only award one (1) prize per household No more than the stated number of prizes will be awarded. No substitution, transfer, or assignment of prize permitted, except that GitHub reserves the right to substitute a prize of equal or greater value in the event the offered prize is unavailable. Prizes are awarded “AS IS” with no warranty of any kind, either express or implied, including but not limited to, the implied warranties or merchantability, fitness for a particular purpose, or non-infringement. Prizes will be sent no later than the timeframe stated in the winner notification. Prize winners may be required to complete and return prize claim and/or tax forms (“Forms”) within the deadline stated in the winner notification. Taxes on the prize, if any, are the sole responsibility of the winner, who is advised to seek independent counsel regarding the tax implications of accepting a prize. By accepting a prize, you agree that GitHub may use your entry, name, image and hometown online and in print, or in any other media, in connection with this Contest without payment or compensation to you, except where prohibited by law.
 
