@@ -9,7 +9,7 @@ If your questions is not below, please ask it in [the Discussions tab](https://g
 You can compete from anywhere in the world where GitHub is available. The live event will be hosted on 12/1/2020 at 930am PST [YouTube](https://youtube.com/github).
 
 ## When does hacking start?
-December 1st to December 20th, 2020 11:59 pm PST
+December 1st to December 20th, 2020 11:59 pm PST.
 
 ## How much does it cost to participate in GitHub Hackathon?
 Like open-source, the GitHub Hackathon is Free!
@@ -21,7 +21,7 @@ Yes. All submissions will need to be submitted by one user. Please list your tea
 We ALWAYS encourage collaboration when coding and building ideas. Feel free to work with others, help one another, and build together. Just remember your project will need to be submitted by an individual. You will be judged as an individual, and prizes are for individuals.
 
 ## How many projects can I submit?
-There is a limit of one submission?
+There is a limit of one submission.
 
 ## Can I submit a repository from an organization?
 An organization repo can be submitted, but prizes can only be sent to indivudal GitHub users.
@@ -39,10 +39,10 @@ You can use whatever you’d like. We do recommend checking out the deploy to Ve
 This hackathon is meant to encourage building e-commerce applications that assist communities and businesses affected by Covid-19. We encourage you to think of real business affected and build a project that would support them during this time.
 
 ## Who decides the winners?
-Team of GitHub employees. If the project improves on the existing starter it will be deemed valid and added to the winners list ( limited to the first 50).
+Team of GitHub employees. If the project improves on the existing starter it will be deemed valid and added to the winners list (limited to the first 50).
 
 ## When are the winners announced?
-December 14th
+December 14th.
 
 ## How will I know if I win?
 Winners will be notified by email, please make sure there is a visible and correct email on your GitHub profile. Good luck!
@@ -57,5 +57,5 @@ Absolutely! We’d love you to hold any type of event you like for this hackatho
 GitHub employees, contractors, and immediate family members can compete, but are not eligible to win.
 
 ## Is there a code of conduct?
-Yes, please review it [here](https://github.com/floss-and-code/code_of_conduct)
+Yes, please review it [here](https://github.com/floss-and-code/code_of_conduct).
 
