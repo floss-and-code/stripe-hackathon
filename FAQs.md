@@ -3,6 +3,8 @@ At GitHub, part of our vision is to impact positive and lasting change around th
 
 In keeping with the spirit of our mission to accelerate human progress through developer collaboration, we have partnered with Stripe and Vercel (Next.js) to host a hackathon to help build e-commerce applications and tools to assist communities and businesses affected by Covid-19.
 
+If your questions is not below, please ask it in [the Discussions tab](https://github.com/floss-and-code/stripe-hackathon/discussions).
+
 ## Where is it located?
 You can compete from anywhere in the world where GitHub is available. The live event will be hosted on 12/1/2020 at 930am PST [YouTube](https://youtube.com/github).
 
